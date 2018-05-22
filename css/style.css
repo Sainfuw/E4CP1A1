@@ -62,3 +62,13 @@ h1 {
     font-weight: normal;
     padding: 20px;
 }
+.carrusel {
+    width: 640px;
+    height: 350px;
+    margin: 0 auto;
+}
+.carrusel-item {
+    max-width: 640px;
+    max-height: 350px;
+    margin: 0 auto;
+}
