@@ -1,0 +1,64 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.air {
+	padding: 60px 0 60px 0;
+}
+.header {
+	background: url("../images/bg.jpeg");
+	background-position: center;
+    background-size: cover;
+    color: white;
+}
+.header .navbar .logo-image {
+	float: left;
+	width: 160px;
+	height: 45px;
+}
+.header .navbar ul.menu {
+    list-style: none;
+    padding: 10px 0 0 0;
+    margin: 0;
+}
+.header .navbar ul.menu li {
+    box-sizing: border-box;
+    float: right;
+}
+.header .navbar ul.menu li a {
+    font-size: 14px;
+    color: grey;
+    text-decoration: none;
+    padding: 2px 15px 2px 15px;
+}
+.header .navbar ul.menu li a:hover {
+    color: white;
+}
+.header-buttons {
+	margin: 30px;
+}
+.texto {
+	padding: 30px;
+	text-align: center;
+}
+.jumbotron {
+	border-top:1px solid #ccc;
+	border-bottom:1px solid #ccc;
+}
+.footer {
+    background-color: #222222;
+    color: white;
+    padding: 20px 0 20px 0px;
+}
+
+.presentacion {
+    position: relative;
+    width: 410px;
+    height: 370px;
+    top: 60px;
+}
+h1 {
+    font-size: 52px;
+    font-weight: normal;
+    padding: 20px;
+}
